@@ -1,0 +1,89 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+nav {
+    height: 50px;
+    background-color:whitesmoke;
+    text-align: center;
+}
+nav ul{
+    padding-top: 12px;
+    float: left;
+    padding-left: 100px;
+}
+nav ul li{
+    display: inline;
+}
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    margin: 20px;
+}
+img{
+    float: left;
+    width: 150px;
+    height: 50px;
+    padding-left: 150px;
+}
+.error{
+    width: auto;
+    height: 600px;
+    background-color: yellowgreen;
+    text-align: center;
+}
+.D_error{
+    margin-top: 110px;
+    display: inline-flex;
+}
+.Box{
+    width: 301px;
+    height: 301px;
+    display: inline-block;
+    background-color: lightgray;
+    text-align: center;
+}
+h1{
+    font-size: 300px;
+    color: red;
+}
+p{
+    padding-top: 150px;
+    text-align: center;
+}
+.OOPS{
+    font-size: 80px;
+}
+.OOPSS{
+    margin-top: -200px;
+}
+.btn{
+    margin-top: 10px;
+    border-color: white;
+    background-color: yellow;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-top: 15px;
+    padding: 10px;
+}
+.navigation{
+    width: auto;
+    height: 400px;
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 100px;
+}
+.Navigation-menu ul li a{
+    text-decoration: none;
+    color: white;
+    margin-left: 200px;
+    padding-top:20px;
+}
+.Navigation-menu ul li{
+    padding-top: 15px;
+}
+.Navigation-menu p{
+    margin-left: -1050px;
+    font-size: 30px;
+    color: white;
+}
